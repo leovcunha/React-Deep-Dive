@@ -1,5 +1,5 @@
 # React-Deep-Dive
-*Based on [P1xt Topic Guide](../P1xt/p1xt-guides/topic-guides/react.md)
+*Based on [P1xt Topic Guide](https://github.com/P1xt/p1xt-guides/topic-guides/react.md)*
 
 The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
 
