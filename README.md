@@ -10,8 +10,8 @@ The following is a deep dive, designed to familiarize you thoroughly with React.
 - [ ]  ~~Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/) (Additional HTML and CSS instruction)~~ Skipped  
 - [x]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/) (Dip into Sass, try to hit this before you finish the guide) Done previously
 - [x]  Book Series: [YDKJS](https://github.com/getify/You-Dont-Know-JS/) (You need to KNOW JavaScript, not just sorta-know JavaScript, if you haven't studied these books, do yourself a favor and study them alongside whatever else you might be doing) Done previously
-- [ ]  Official Docs: [ESLint](https://eslint.org/) - thoroughly review the User Guide ~~ 
-- [ ]  Official Docs: [Axios npm package](https://www.npmjs.com/package/axios) - thoroughly review, you'll want this for making API calls
+- [x]  Official Docs: [ESLint](https://eslint.org/) - thoroughly review the User Guide ~~ 
+- [x]  Official Docs: [Axios npm package](https://www.npmjs.com/package/axios) - thoroughly review, you'll want this for making API calls
 
 ## Tier 1 - basics
 
