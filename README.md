@@ -31,9 +31,9 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) **( [annotated code](https://codepen.io/leovcunha/pen/aqByNq) )**
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **In progress**
 - [X]  Official Docs: [React Quick Start](https://reactjs.org/docs/hello-world.html) - all sections from Hello World to Thinking in React
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
-- [ ]  Official Docs: [React DevTools](https://github.com/facebook/react-devtools)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Official Docs: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
+- [X]  Official Docs: [React DevTools](https://github.com/facebook/react-devtools)
 - [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Official Docs: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
