@@ -34,10 +34,9 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [X]  Official Docs: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
 - [X]  Official Docs: [React DevTools](https://github.com/facebook/react-devtools)
-- [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [X]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [ ]  Official Docs: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-- [ ]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
