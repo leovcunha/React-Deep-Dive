@@ -39,9 +39,9 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [X]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
-- [ ]  Official Docs: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [X]  Official Docs: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
 
 
 # Tier 2 - beyond basics
@@ -57,17 +57,17 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Use React-Bootstrap
 * Include at least 20 automated tests
 -----    
-- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
-- [ ]  Official Docs: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
-- [ ]  Official Docs: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
-- [ ]  Official Docs: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
+- [X]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail
+- [X]  Official Docs: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
+- [X]  Official Docs: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
+- [X]  Official Docs: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
-- [ ]  Official Docs: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
-- [ ]  Official Docs: [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
+- [X]  Official Docs: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [X]  Official Docs: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
+- [X]  Official Docs: [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
+- [X]  Official Docs: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [ ]  Official Docs: [Context](https://reactjs.org/docs/context.html)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
