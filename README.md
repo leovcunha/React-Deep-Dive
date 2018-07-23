@@ -1,5 +1,5 @@
 # React-Deep-Dive
-*Based on [P1xt Topic Guide](https://github.com/P1xt/p1xt-guides/blob/master/topic-guides/react.md)*
+*From [P1xt Topic Guide](https://github.com/P1xt/p1xt-guides/blob/master/topic-guides/react.md)*
 
 The following is a deep dive, designed to familiarize you thoroughly with React. It is not the "easy path to just learning 'enough'" - it aims far highter, combining thorough study of the official docs, regular practice projects, comprehensive exploration of React's ecosystem and hands on non-React JavaScript practice to ensure a rock solid foundation in everything React.
 
@@ -29,17 +29,17 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - don't worry about understanding every detail => (watched React Conf 2017 videos: React for anything but web, React Native and React with GraphQl)
 - [X]  Official Docs: [Intro To React](https://reactjs.org/tutorial/tutorial.html) - All sections  **( [annotated code](https://codepen.io/leovcunha/pen/mXrMqJ) )**
 - [X]  Official Docs: [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) **( [annotated code](https://codepen.io/leovcunha/pen/aqByNq) )**
-- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **In progress**
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/tribute-page) )**
 - [X]  Official Docs: [React Quick Start](https://reactjs.org/docs/hello-world.html) - all sections from Hello World to Thinking in React
-- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/portfolio) )**
 - [X]  Official Docs: [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)
 - [X]  Official Docs: [React DevTools](https://github.com/facebook/react-devtools)
 - [X]  Official Docs: [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [X]  Official Docs: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
-- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/calculator) )**
 - [X]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
-- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/md-previewer) )**
 - [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [X]  Official Docs: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
 
@@ -62,19 +62,19 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Official Docs: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
 - [X]  Official Docs: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/wikipedia-viewer) )**
 - [X]  Official Docs: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [X]  Official Docs: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
 - [X]  Official Docs: [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/recipe-box) )**
 - [X]  Official Docs: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-- [ ]  Official Docs: [Context](https://reactjs.org/docs/context.html)
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
+- [X]  Official Docs: [Context](https://reactjs.org/docs/context.html)
+- [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.   **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/twitch-client) )**
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
-- [ ]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
-- [ ]  Official Docs: [Enzyme Docs](http://airbnb.io/enzyme/)
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [X]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
+- [X]  Official Docs: [Enzyme Docs](http://airbnb.io/enzyme/)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/tictactoe) )**
+- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 3 - intermediate
 
@@ -89,21 +89,21 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Code all CSS yourself
 * Use React-Bootstrap
 -----
-- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
+- [X]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
 - [ ]  Official Docs: [Fragments](https://reactjs.org/docs/fragments.html)
-- [ ]  Official Docs: [Portals](https://reactjs.org/docs/portals.html)
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
-- [ ]  Official Docs: [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
-- [ ]  Official Docs: [Web Components](https://reactjs.org/docs/web-components.html)
+- [X]  Official Docs: [Portals](https://reactjs.org/docs/portals.html)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/simon) )**
+- [X]  Official Docs: [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+- [X]  Official Docs: [Web Components](https://reactjs.org/docs/web-components.html)
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
 - [ ]  Official Docs: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [ ]  Official Docs: [Render Props](https://reactjs.org/docs/render-props.html)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
 - [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
+- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/random-quote-machine) )**
 - [ ]  Official Docs: [Styled Components](https://www.styled-components.com/)
 - [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
+- [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.   **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/local-weather) )**
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
@@ -138,9 +138,9 @@ On two projects of your choice - use no CLI or boilerplate created by someone el
 - [ ]  Official Docs: [React Reference](https://reactjs.org/docs/react-api.html) - all sections
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [in progress](https://movie-recomm.herokuapp.com/) )**
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)
+- [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/pomodoro) )**
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [ ]  Project: Utilize everything you've learned to create a comprehensive portfolio that showcases your ability with React, refactoring earlier projects as necessary to bring them up to the standard of your current abilities.
