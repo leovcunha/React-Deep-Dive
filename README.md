@@ -38,7 +38,7 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Official Docs: [Typechecking With PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/calculator) )**
 - [X]  Official Docs: [Static Type Checking](https://reactjs.org/docs/static-type-checking.html)
-- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
+- [X]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets)  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/md-previewer) )**
 - [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 - [X]  Official Docs: [React FAQ](https://reactjs.org/docs/faq-ajax.html) read all sections of the FAQ, from AJAX and APIs through Virtual DOM and Internals - make a mental note of everything in case you need to refer back to it during projects
