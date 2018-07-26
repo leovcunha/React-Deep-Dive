@@ -90,22 +90,22 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 * Use React-Bootstrap
 -----
 - [X]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
-- [ ]  Official Docs: [Fragments](https://reactjs.org/docs/fragments.html)
+- [X]  Official Docs: [Fragments](https://reactjs.org/docs/fragments.html)
 - [X]  Official Docs: [Portals](https://reactjs.org/docs/portals.html)
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/simon) )**
 - [X]  Official Docs: [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
 - [X]  Official Docs: [Web Components](https://reactjs.org/docs/web-components.html)
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/pomodoro) )**
-- [ ]  Official Docs: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
-- [ ]  Official Docs: [Render Props](https://reactjs.org/docs/render-props.html)
+- [X]  Official Docs: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [X]  Official Docs: [Render Props](https://reactjs.org/docs/render-props.html)
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
-- [ ]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+- [X]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/random-quote-machine) )**
-- [ ]  Official Docs: [Styled Components](https://www.styled-components.com/)
-- [ ]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
+- [X]  Official Docs: [Styled Components](https://www.styled-components.com/)
+- [X]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.   **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/local-weather) )**
 - [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
-- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
 
 # Tier 4 - beyond intermediate
 
