@@ -61,7 +61,6 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Official Docs: [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html)
 - [X]  Official Docs: [Uncontrolled Components](https://reactjs.org/docs/uncontrolled-components.html)
 - [X]  Official Docs: [Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
-- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/wikipedia-viewer) )**
 - [X]  Official Docs: [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
 - [X]  Official Docs: [React Without ES6](https://reactjs.org/docs/react-without-es6.html)
@@ -70,12 +69,12 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Official Docs: [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [X]  Official Docs: [Context](https://reactjs.org/docs/context.html)
 - [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.   **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/twitch-client) )**
-- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [X]  Official Docs: [Jest Docs](https://facebook.github.io/jest/docs/en/getting-started.html)
 - [X]  Official Docs: [Enzyme Docs](http://airbnb.io/enzyme/)
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/tictactoe) )**
-- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
-
+- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters
+- [X]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript (adapted)
+- [X]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript (adapted)
 # Tier 3 - intermediate
 
 Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
@@ -98,15 +97,14 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/pomodoro) )**
 - [X]  Official Docs: [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [X]  Official Docs: [Render Props](https://reactjs.org/docs/render-props.html)
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
 - [X]  Official Docs: [MDN Client-side storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 - [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.  **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/random-quote-machine) )**
 - [X]  Official Docs: [Styled Components](https://www.styled-components.com/)
 - [X]  Official Docs: [Jest API](https://facebook.github.io/jest/docs/en/api.html)
 - [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.   **( [solution](https://leovcunha.github.io/fcc-speedrun-react/#/local-weather) )**
-- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
 - [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
-
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 10 problems using JavaScript (adapted)
+- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete the qualifying round of any past contest using JavaScript 
 # Tier 4 - beyond intermediate
 
 Study each item thoroughly. Type the code. Understand how it works. Yes, the whole thing.
@@ -124,29 +122,35 @@ Study each item thoroughly. Type the code. Understand how it works. Yes, the who
 On two projects of your choice - use no CLI or boilerplate created by someone else. Setup the project from scratch using npm init. Setup your own build process. Include only what you need from npm. Know precisely what everything in the setup is doing because you put it there, on purpose, yourself.
 
 -----
-- [ ]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
-- [ ]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
-- [ ]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
-- [ ]  Official Docs: [Gulp Docs](https://gulpjs.com/)sty
-- [ ]  Official Docs: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
-- [ ]  Official Docs: [Redux docs](https://redux.js.org/)
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.
-- [ ]  Official Docs: [Accessibility](https://reactjs.org/docs/accessibility.html)
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Official Docs: [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
-- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
-- [ ]  Official Docs: [React Reference](https://reactjs.org/docs/react-api.html) - all sections
-- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
+- [X]  Video: [React Community Videos](https://reactjs.org/community/videos.html) Pick and watch one video - ensure you understand everything, pause and research if necessary
+- [X]  Official Docs: [Webpack Docs](https://webpack.js.org/concepts/)
+- [X]  Official Docs: [RxJS Docs](http://reactivex.io/rxjs//)
+- [X]  Official Docs: [Gulp Docs](https://gulpjs.com/)sty
+- [X]  Official Docs: [Integrating with Other Libraries](https://reactjs.org/docs/integrating-with-other-libraries.html)
+- [X]  Official Docs: [Redux docs](https://redux.js.org/)
+
+- [X]  Official Docs: [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
+
+- [X]  Official Docs: [React Reference](https://reactjs.org/docs/react-api.html) - all sections
+- [X]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
+
 - [X]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) **( [in progress](https://movie-recomm.herokuapp.com/) )**
+
+- [X]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters 
+- [X]  Official Docs: [Accessibility](https://reactjs.org/docs/accessibility.html)
+- [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
+- [ ]  Project: [CodeWars](https://www.codewars.com/) - complete 20 problems using JavaScript
+- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose.
+
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement an React application with it as your inspiration (do not use its assets) 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
-- [ ]  Official Docs: [JavaScript Guide on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) study thoroughly three chapters  
+- [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build an React application powered by data fetched from the API you chose. 
 - [ ]  Project: Utilize everything you've learned to create a comprehensive portfolio that showcases your ability with React, refactoring earlier projects as necessary to bring them up to the standard of your current abilities.
+- [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 
 ## Bonus - advanced
-- [ ]  Official Docs: [React Native](https://facebook.github.io/react-native/) Study thoroughly, then refactor any previous project into a mobile app using React Native
+
 - [ ]  Project: Make an open source contribution to a project you use
 - [ ]  Project: [Google Code Jam](https://code.google.com/codejam/past-contests) - complete one round of any past contest using JavaScript 
 - [ ]  Official Docs: [MDN Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
